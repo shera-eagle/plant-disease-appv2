@@ -1,0 +1,62 @@
+{
+  "Pepper__bell___Bacterial_spot": {
+    "cure": ["Infected leaves hatao aur jala do (compost mein mat daalo).", "Copper-based bactericide spray karo, label ke hisaab se.", "Spray ke beech 7-10 din ka gap rakho."],
+    "prevention": ["Certified disease-free beej/paudhe lo.", "Upar se paani mat do, jad mein do.", "2-3 saal crop rotation karo."]
+  },
+  "Pepper__bell___healthy": {
+    "cure": ["Koi bimari nahi dikhi. Kuch karne ki zarurat nahi."],
+    "prevention": ["Regular paani aur dhoop do.", "Har hafte patton ko check karte raho."]
+  },
+  "Potato___Early_blight": {
+    "cure": ["Neeche ke infected patte hatao.", "Mancozeb ya chlorothalonil fungicide spray karo, label ke hisaab se.", "Paudhe ko khaad do, kamzor paudhe me bimari tez failti hai."],
+    "prevention": ["Crop rotation karo.", "Paudhon ke beech jagah rakho taaki hawa chale.", "Kheti ke baad bache hue paudhe saaf kar do."]
+  },
+  "Potato___Late_blight": {
+    "cure": ["Infected paudhe turant ukhaad ke door jala do.", "Metalaxyl ya mancozeb wale fungicide spray karo, label ke hisaab se.", "Aas-paas ke paudhon pe bhi spray karo."],
+    "prevention": ["Healthy certified beej use karo.", "Thandi aur geeli mausam me nazar rakho.", "Kheti ke baad bache hue kande aur paudhe hata do."]
+  },
+  "Potato___healthy": {
+    "cure": ["Koi bimari nahi dikhi. Kuch karne ki zarurat nahi."],
+    "prevention": ["Achhi nikasi wali mitti rakho.", "Hafte me ek baar patton ko check karo."]
+  },
+  "Tomato_Bacterial_spot": {
+    "cure": ["Infected patte hatao.", "Copper-based spray karo, label ke hisaab se.", "Geele paudhe ko haath mat lagao."],
+    "prevention": ["Healthy beej lo.", "Jad me paani do, patton pe nahi.", "Crop rotation karo."]
+  },
+  "Tomato_Early_blight": {
+    "cure": ["Neeche ke infected patte hatao.", "Chlorothalonil ya copper fungicide spray karo, label ke hisaab se.", "Mulching karo taaki mitti patton pe na uchhle."],
+    "prevention": ["Crop rotation karo.", "Paudhon ko stake karo, hawa aane do.", "Upar se paani mat do."]
+  },
+  "Tomato_Late_blight": {
+    "cure": ["Bahut infected paudhe ukhaad ke jala do.", "Fungicide (chlorothalonil ya mancozeb) spray karo, label ke hisaab se.", "Jaldi action lo, yeh bimari tezi se failti hai."],
+    "prevention": ["Thandi geeli mausam me roz check karo.", "Paudhon me jagah rakho.", "Bache hue paudhe season ke baad hata do."]
+  },
+  "Tomato_Leaf_Mold": {
+    "cure": ["Infected patte hatao.", "Hawa ka flow badhao (greenhouse me ventilation).", "Copper ya chlorothalonil fungicide spray karo, label ke hisaab se."],
+    "prevention": ["Humidity kam rakho.", "Paudhe ke beech jagah rakho.", "Patton ko geela mat rakho."]
+  },
+  "Tomato_Septoria_leaf_spot": {
+    "cure": ["Neeche ke dhabbe wale patte hatao.", "Chlorothalonil ya copper fungicide spray karo, label ke hisaab se.", "Mulching karo."],
+    "prevention": ["Crop rotation karo.", "Jad me paani do.", "Season ke baad paudhe saaf kar do."]
+  },
+  "Tomato_Spider_mites_Two_spotted_spider_mite": {
+    "cure": ["Patton ke neeche pani ka tez spray karo.", "Neem oil ya insecticidal soap spray karo.", "Zyada infestation me miticide, label ke hisaab se."],
+    "prevention": ["Paudhe ko dust se bachao.", "Garam sukhe mausam me patton ke neeche check karo.", "Paudhon ko tanav (paani ki kami) se bachao."]
+  },
+  "Tomato__Target_Spot": {
+    "cure": ["Infected patte hatao.", "Chlorothalonil ya copper fungicide spray karo, label ke hisaab se.", "Hawa ka flow badhao."],
+    "prevention": ["Crop rotation karo.", "Paudhe ke beech jagah rakho.", "Jad me paani do."]
+  },
+  "Tomato__Tomato_YellowLeaf__Curl_Virus": {
+    "cure": ["Is virus ka koi ilaaj nahi. Infected paudhe ukhaad ke jala do.", "Safed makkhi (whitefly) ko control karo: neem oil ya yellow sticky trap.", "Zarurat ho to insecticide, label ke hisaab se."],
+    "prevention": ["Virus-resistant variety lagao.", "Nursery me paudhon pe jaali (net) lagao.", "Khet ke aas-paas ke jhaad-jhankad saaf rakho."]
+  },
+  "Tomato__Tomato_mosaic_virus": {
+    "cure": ["Is virus ka koi ilaaj nahi. Infected paudhe hatao aur jala do.", "Hath aur auzaar sabun se dho lo.", "Tambaku ya cigarette chhune ke baad haath dho ke hi paudhe chhuo."],
+    "prevention": ["Virus-free beej lo.", "Resistant variety lagao.", "Auzaar saaf rakho."]
+  },
+  "Tomato_healthy": {
+    "cure": ["Koi bimari nahi dikhi. Kuch karne ki zarurat nahi."],
+    "prevention": ["Regular paani, dhoop aur khaad do.", "Hafte me ek baar patton ko check karo."]
+  }
+}
